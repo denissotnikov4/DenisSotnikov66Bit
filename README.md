@@ -30,3 +30,6 @@ CREATE TABLE footballer (
     country varchar(300)  
 )
 ```
+
+# !!!ВАЖНО
+Чтобы запустить приложение зайдите в класс расположенный по пути src/main/java/ru/sotnikov/football/config/SpringConfig.java и вставьте логин, пароль, ссылку на вашу базу данных
